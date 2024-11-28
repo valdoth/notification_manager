@@ -1,0 +1,8 @@
+signleton: gestionnaire de notification centralisé unique
+observer pattern: gerer plusieurs cannaux de notification en limitant le couplage
+strategy pattern: pour formatage des messages flexibles
+factory pattern : pour créer different type de notification proprement
+
+
+
+suivre le context avant de changer a parler a autre chose 
